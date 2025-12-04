@@ -1,0 +1,158 @@
+[
+  {
+    "matiere": "Eau",
+    "formule": "H2O",
+    "elements": ["Hydrogène", "Hydrogène", "Oxygène"],
+    "icon": "💧"
+  },
+  {
+    "matiere": "Sel",
+    "formule": "NaCl",
+    "elements": ["Sodium", "Chlore"],
+    "icon": "🧂"
+  },
+  {
+    "matiere": "Acide chlorhydrique",
+    "formule": "HCl",
+    "elements": ["Hydrogène", "Chlore"],
+    "icon": "🧪"
+  },
+  {
+    "matiere": "Dioxygène",
+    "formule": "O2",
+    "elements": ["Oxygène", "Oxygène"],
+    "icon": "🌬️"
+  },
+  {
+    "matiere": "Dioxyde de carbone",
+    "formule": "CO2",
+    "elements": ["Carbone", "Oxygène", "Oxygène"],
+    "icon": "☁️"
+  },
+  {
+    "matiere": "Oxyde de calcium",
+    "formule": "CaO",
+    "elements": ["Calcium", "Oxygène"],
+    "icon": "🪨"
+  },
+  {
+    "matiere": "Ammoniac",
+    "formule": "NH3",
+    "elements": ["Azote", "Hydrogène", "Hydrogène", "Hydrogène"],
+    "icon": "🧴"
+  },
+  {
+    "matiere": "Dioxyde de silicium",
+    "formule": "SiO2",
+    "elements": ["Silicium", "Oxygène", "Oxygène"],
+    "icon": "🏖️"
+  },
+  {
+    "matiere": "Rouille",
+    "formule": "Fe2O3·nH2O",
+    "elements": ["Fer", "Oxygène", "Oxygène", "Hydrogène"],
+    "icon": "🔩"
+  },
+  {
+    "matiere": "Méthane",
+    "formule": "CH4",
+    "elements": ["Carbone", "Hydrogène", "Hydrogène", "Hydrogène", "Hydrogène"],
+    "icon": "🔥"
+  },
+  {
+    "matiere": "Hydroxyde de sodium",
+    "formule": "NaOH",
+    "elements": ["Sodium", "Oxygène", "Hydrogène"],
+    "icon": "🧪"
+  },
+  {
+    "matiere": "Ozone",
+    "formule": "O3",
+    "elements": ["Oxygène", "Oxygène", "Oxygène"],
+    "icon": "🌐"
+  },
+  {
+    "matiere": "Acide carbonique",
+    "formule": "H2CO3",
+    "elements": ["Hydrogène", "Hydrogène", "Carbone", "Oxygène", "Oxygène", "Oxygène"],
+    "icon": "🥤"
+  },
+  {
+    "matiere": "Monoxyde de carbone",
+    "formule": "CO",
+    "elements": ["Carbone", "Oxygène"],
+    "icon": "⚠️"
+  },
+  {
+    "matiere": "Eau lourde",
+    "formule": "D2O",
+    "elements": ["Deutérium", "Deutérium", "Oxygène"],
+    "icon": "💧"
+  },
+  {
+    "matiere": "Acide sulfurique",
+    "formule": "H2SO4",
+    "elements": ["Hydrogène", "Hydrogène", "Soufre", "Oxygène", "Oxygène", "Oxygène", "Oxygène"],
+    "icon": "⚗️"
+  },
+  {
+    "matiere": "Dioxyde de soufre",
+    "formule": "SO2",
+    "elements": ["Soufre", "Oxygène", "Oxygène"],
+    "icon": "🌫️"
+  },
+  {
+    "matiere": "Oxyde de magnésium",
+    "formule": "MgO",
+    "elements": ["Magnésium", "Oxygène"],
+    "icon": "🔥"
+  },
+  {
+    "matiere": "Fluorure de calcium",
+    "formule": "CaF2",
+    "elements": ["Calcium", "Fluor", "Fluor"],
+    "icon": "💎"
+  },
+  {
+    "matiere": "Peroxyde de sodium",
+    "formule": "Na2O2",
+    "elements": ["Sodium", "Sodium", "Oxygène", "Oxygène"],
+    "icon": "🧴"
+  },
+  {
+    "matiere": "Carbonate de calcium",
+    "formule": "CaCO3",
+    "elements": ["Calcium", "Carbone", "Oxygène", "Oxygène", "Oxygène"],
+    "icon": "🪨"
+  },
+  {
+    "matiere": "Nitrate de potassium",
+    "formule": "KNO3",
+    "elements": ["Potassium", "Azote", "Oxygène", "Oxygène", "Oxygène"],
+    "icon": "🧨"
+  },
+  {
+    "matiere": "Hydroxyde de potassium",
+    "formule": "KOH",
+    "elements": ["Potassium", "Oxygène", "Hydrogène"],
+    "icon": "🧪"
+  },
+  {
+    "matiere": "Acide nitrique",
+    "formule": "HNO3",
+    "elements": ["Hydrogène", "Azote", "Oxygène", "Oxygène", "Oxygène"],
+    "icon": "⚗️"
+  },
+  {
+    "matiere": "Oxyde de cuivre (II)",
+    "formule": "CuO",
+    "elements": ["Cuivre", "Oxygène"],
+    "icon": "🟩"
+  },
+  {
+    "matiere": "Oxyde de cuivre (I)",
+    "formule": "Cu2O",
+    "elements": ["Cuivre", "Cuivre", "Oxygène"],
+    "icon": "🟥"
+  }
+]
